@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimpleTorch</string>
+    <string name="widget_name">Simple Torch Widget</string>
+    <string name="no_camera">Sorry, your device doesn\'t support camera!</string>
+    <string name="no_flash">Sorry, your device doesn\'t support flash light!</string>
+</resources>
