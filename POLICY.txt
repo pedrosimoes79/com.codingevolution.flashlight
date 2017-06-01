@@ -1,0 +1,4 @@
+INFORMATION THAT THIS APP COLLECT AND USE
+
+1. This doesn't collect any personal data.
+2. The permission asked (CAMERA) is needed to activate the camera flash.
